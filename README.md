@@ -18,7 +18,7 @@ This repo is an example of a basic redux implementation. It's meant for educatio
 
 ## Code structure
 
-This repo uses the (Vite vanilla-ts template)[https://vitejs.dev/guide/#browser-support] to run the dev server.
+This repo uses the [Vite vanilla-ts template](https://vitejs.dev/guide/#browser-support) to run the dev server.
 
 The entry file is `./index.html`. All JS loaded in this file as a module (see below) will be loaded onto the page.
 
@@ -44,4 +44,4 @@ To help get a good understanding of how this works, it is encoraged to fork this
 
 
 For more of a challenge, you could also try: 
-- using the (Proxy)[https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy] class, implement reducers in a way that doesn't require the use of a switch statement.
+- using the [Proxy](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy) class, implement reducers in a way that doesn't require the use of a switch statement.
